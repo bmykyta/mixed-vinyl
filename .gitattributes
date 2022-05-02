@@ -1,0 +1,4 @@
+*.php linguist-detectable
+*.twig -linguist-detectable
+templates/* linguist-vendored
+assets/* linguist-vendored
